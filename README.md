@@ -11,7 +11,7 @@ Besides code I read very often and also like to write on several subjects includ
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-## 📈 Statistiques GitHub
+## 📈 Stats 
 
 ![Les stats de ton nom](https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=tokyonight)
 
@@ -22,19 +22,23 @@ Besides code I read very often and also like to write on several subjects includ
 ## 🌱 Currently learning...
 
 - [Kubernetes]
-- [Django]
 - [Cloud]
 
-## 📚 Currently reading 
+## On my learning list: 
+
+## 📚 Currently reading... 
 
 - Thinking in Systems Donella Meadows
 - Excession Iain M Banks (Culture Cycle)
   
+## 📚 Next on my reading list: 
+-
+-
+-
 
 ## 📫 You can find me there: 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonprofil)
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://substack.com/@paul880906?utm_source=user-menu)
 
-Blogs for book critics: 
 
