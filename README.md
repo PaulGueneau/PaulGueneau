@@ -1,6 +1,6 @@
 # 👋 Hello I am Paul Gueneau !
 
-I am a french software engineer with a little more than 3 years of experience based in Sophia Antipolis, Côte d'Azur 
+I am a french software engineer with a little more than 3 years of experience based in Sophia Antipolis, Côte d'Azur. 
 
 Besides code I read very often and also like to write on several subjects including software engineering but not only! 
 
@@ -23,18 +23,42 @@ Besides code I read very often and also like to write on several subjects includ
 
 - [Kubernetes]
 - [Cloud]
-
-## On my learning list: 
+- Japanese Kana and N5 JLPT Kanjis 
 
 ## 📚 Currently reading... 
 
 - Thinking in Systems Donella Meadows
 - Excession Iain M Banks (Culture Cycle)
+- Bakuon Retto (manga) 
+
+## 📚 Recently finished:  
+- Consider Phlebas / Iain M Banks (Culture Cycle)
+- The drowned world / JG Ballard 
   
-## 📚 Next on my reading list: 
--
--
--
+
+## Some blogs, sites and github repos recos: 
+- https://github.com/kamranahmedse/design-patterns-for-humans?tab=readme-ov-file
+- https://github.com/ashishps1/awesome-leetcode-resources?tab=readme-ov-file
+- https://github.com/sdmg15/Best-websites-a-programmer-should-visit?tab=readme-ov-file#when-you-get-stuck
+- https://github.com/mtdvio/every-programmer-should-know?tab=readme-ov-file
+- https://github.com/trimstray/the-book-of-secret-knowledge
+- https://devhints.io/
+- https://refactoring.guru/fr
+
+
+For Java: 
+- Marco Behler's blog: https://www.marcobehler.com/
+- Java revisited: https://javarevisited.blogspot.com/
+
+For C++: 
+- https://www.fluentcpp.com/
+- https://hackingcpp.com/index.html
+
+
+For Infra/Devops: 
+- https://blog.stephane-robert.info/post/ (french speaking)
+
+
 
 ## 📫 You can find me there: 
 
