@@ -27,13 +27,15 @@ Besides code I read very often and also like to write on several subjects includ
 
 ## 📚 Currently reading... 
 
-- Thinking in Systems Donella Meadows
 - Excession Iain M Banks (Culture Cycle)
-- Bakuon Retto (manga) 
+- Out (manga)
+- A brief history of Time / Hawking (rereading)
 
 ## 📚 Recently finished:  
 - Consider Phlebas / Iain M Banks (Culture Cycle)
-- The drowned world / JG Ballard 
+- The drowned world / JG Ballard
+- Thinking in Systems / Donella Meadows
+- Bakuon Retto (manga) 
   
 
 ## Some blogs, sites and github repos recos: 
