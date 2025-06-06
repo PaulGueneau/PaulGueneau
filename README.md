@@ -27,7 +27,8 @@ Besides code I read very often and also like to write on several subjects includ
 
 ## 📚 Currently reading... 
 
-- Excession Iain M Banks (Culture Cycle)
+- Excession / Iain M Banks (Culture Cycle)
+- The camp of the saints / Raspail 
 - Out (manga)
 - A brief history of Time / Hawking (rereading)
 
