@@ -23,18 +23,18 @@ Besides code I read very often and also like to write on several subjects includ
 
 - [Kubernetes]
 - [Cloud]
-- Japanese Kana and N5 JLPT Kanjis 
+- N5 JLPT Kanjis 
 
 ## 📚 Currently reading... 
 
 - Excession / Iain M Banks (Culture Cycle)
-- The camp of the saints / Raspail 
+- The master of Ballantrae / Stevenson 
 - Out (manga)
 - A brief history of Time / Hawking (rereading)
 
 ## 📚 Recently finished:  
 - Consider Phlebas / Iain M Banks (Culture Cycle)
-- The drowned world / JG Ballard
+- The camp of the saints/ Rapsail
 - Thinking in Systems / Donella Meadows
 - Bakuon Retto (manga) 
   
